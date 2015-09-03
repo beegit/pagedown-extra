@@ -1,5 +1,5 @@
 {
-  "name": "pagedown-extra",
+  "name": "@kmctown/pagedown-extra",
   "version": "0.1.1",
   "main": "node-pagedown-extra.js",
   "devDependencies": {
