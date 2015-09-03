@@ -5,6 +5,9 @@
   "devDependencies": {
     "karma": "~0.10.8"
   },
+  "publishConfig": {
+    "access": "restricted"
+  },
   "scripts": {
     "test": "./node_modules/.bin/karma start karma.conf.js --single-run"
   }
